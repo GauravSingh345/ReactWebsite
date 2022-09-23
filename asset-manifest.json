@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ReactWebsite/static/css/main.dd8af708.css",
+    "main.js": "/ReactWebsite/static/js/main.d7203eb8.js",
+    "static/media/Shirt 1.jpg": "/ReactWebsite/static/media/Shirt 1.e04c4ef4ae0cba100adc.jpg",
+    "index.html": "/ReactWebsite/index.html",
+    "main.dd8af708.css.map": "/ReactWebsite/static/css/main.dd8af708.css.map",
+    "main.d7203eb8.js.map": "/ReactWebsite/static/js/main.d7203eb8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd8af708.css",
+    "static/js/main.d7203eb8.js"
+  ]
+}
